@@ -38,36 +38,31 @@
   ],
   "users": [
     {
-      "id": 1,
-      "guid": "87d7d5af48c84e12b9e2ee58bab9077d",
+      "id": "87d7d5af48c84e12b9e2ee58bab9077d",
       "name": "David Fontes",
       "emailAddress": "david.fontes@gmail.com",
       "phoneNumber": "987654321"
     },
     {
-      "id": 2,
-      "guid": "6ec41efcf04b40f2a98a774f9fe8e38b",
+      "id": "6ec41efcf04b40f2a98a774f9fe8e38b",
       "name": "Diogo Pina Manique",
       "emailAddress": "diogopm@gmail.com",
       "phoneNumber": "987654321"
     },
     {
-      "id": 3,
-      "guid": "5236549379ae49e5861f4567aceb2a5b",
+      "id": "5236549379ae49e5861f4567aceb2a5b",
       "name": "Carlos Sancho",
       "emailAddress": "carlos.sancho@outlook.com",
       "phoneNumber": "987654321"
     },
     {
-      "id": 4,
-      "guid": "b0286a56a379474c8f3cc17321e79767",
+      "id": "b0286a56a379474c8f3cc17321e79767",
       "name": "Paulo Matos",
       "emailAddress": "paulo.matos@gmail.com",
       "phoneNumber": "987654321"
     },
     {
-      "id": 5,
-      "guid": "f772eeaf58f54b268c3b4c006fa4fc82",
+      "id": "f772eeaf58f54b268c3b4c006fa4fc82",
       "name": "Mateus Bonvalot",
       "emailAddress": "mateus.bonvalot@yahoo.com",
       "phoneNumber": "987654321"
